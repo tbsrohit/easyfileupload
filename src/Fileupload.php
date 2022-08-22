@@ -1,5 +1,5 @@
 <?php
-namespace Easyfileupload\Easyfileupload;
+namespace Easyfileupload;
 /***
  * 
  * Class Fileupload
