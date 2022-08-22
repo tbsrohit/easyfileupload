@@ -14,13 +14,11 @@
         "role": "PHP Developer :)"
       }
     ],
-    "require": {
-      "php": ">=7.4.0"
-    },
     "autoload": {
       "psr-4": {
-        "Tbsrohit\\Easyfileupload\\": "src"
+        "Tbsrohit\\Easyfileupload\\": "./src"
       }
     },
-    "minimum-stability": "dev"
+    "minimum-stability": "dev",
+    "prefer-stable": true
   }
