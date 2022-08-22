@@ -22,10 +22,5 @@
         "Tbsrohit\\Easyfileupload\\": "src"
       }
     },
-    "extra": {
-      "branch-alias": {
-        "dev-master": "Development"
-      }
-    },
     "minimum-stability": "stable"
   }
