@@ -7,6 +7,7 @@ namespace Easyfileupload\Easyfileupload;
  * @author Rohit jayswal <tbs.rohitj@gmail.com>
  */
 class Fileupload{
+    
     public static $temFile;
     public static $filePath;
     public static $fileName;
